@@ -1,26 +1,26 @@
 # [Node School](https://nodeschool.io/)
 ---
 ## Core Workshoppers solutions
-- [x] __[Javascripting]()__
+- [x] __[Javascripting](https://github.com/kazachenok/nodeschool/tree/master/javascripting)__
 
 Learn the basics of JavaScript.
 - [x] __Learn Git and GitHub basics.__
-- [x] __[Scope Chains & Closures]()__
+- [x] __[Scope Chains & Closures](https://github.com/kazachenok/nodeschool/tree/master/scopechainsclosures)__
 
 Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
-- [x] __[Elementary Electron]()__
+- [x] __[Elementary Electron](https://github.com/kazachenok/nodeschool/tree/master/elementaryelectron)__
 
 Make a desktop application using Node and Chromium with Electron. Learn the basics.
-- [x] __[Learn you node]()__
+- [x] __[Learn you node](https://github.com/kazachenok/nodeschool/tree/master/learnyounode)__
 
 Learn the basics of node: asynchronous i/o, http.
 - [x]  __How to npm__
 
 Learn how to use and create npm modules.
-- [x] __[Stream Adventure]()__
+- [x] __[Stream Adventure](https://github.com/kazachenok/nodeschool/tree/master/streamadventure)__
 
 Learn to compose streaming interfaces with .pipe().
-- [x] __[How to markdown]()__
+- [x] __[How to markdown](https://github.com/kazachenok/nodeschool/tree/master/markdown)__
 
 Learn how to start using Markdown — a lightweight markup language with plain text formatting syntax.
 - [ ] __[Learn you html]()__
