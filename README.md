@@ -23,7 +23,7 @@ Learn to compose streaming interfaces with .pipe().
 - [x] __[How to markdown](https://github.com/kazachenok/nodeschool/tree/master/markdown)__
 
 Learn how to start using Markdown — a lightweight markup language with plain text formatting syntax.
-- [ ] __[Learn you html]()__
+- [x] __[Learn you html](https://github.com/kazachenok/nodeschool/tree/master/learnyouhtml)__
 
 Learn how to create your first web page.
 ---
