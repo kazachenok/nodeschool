@@ -26,6 +26,7 @@ Learn how to start using Markdown — a lightweight markup language with plain t
 - [x] __[Learn you html](https://github.com/kazachenok/nodeschool/tree/master/learnyouhtml)__
 
 Learn how to create your first web page.
+
 ---
 ## Electives
 - [ ] __[Functional Javascript]()__
