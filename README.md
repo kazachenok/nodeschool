@@ -35,7 +35,7 @@ Learn fundamental functional programming features of JavaScript in vanilla ES5.
 - [ ] __[ExpressWorks]()__
 
 Learn the basics of the Express.js framework.
-- [ ] __[Promise It Won't Hurt]()__
+- [x] __[Promise It Won't Hurt]()__
 
 Learn to use promises in JavaScript to handle async operations.
 - [ ] __[Async You]()__
