@@ -38,7 +38,7 @@ Learn the basics of the Express.js framework.
 - [x] __[Promise It Won't Hurt]()__
 
 Learn to use promises in JavaScript to handle async operations.
-- [ ] __[Async You]()__
+- [x] __[Async You]()__
 
 Learn to use the async package.
 - [ ] __[Planet Proto]()__
